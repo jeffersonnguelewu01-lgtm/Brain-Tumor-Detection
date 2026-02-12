@@ -1,0 +1,5 @@
+dataset/
+.venv/
+.idea/
+__pycache__/
+brain_tumor_model.h5
