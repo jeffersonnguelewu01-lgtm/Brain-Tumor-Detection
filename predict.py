@@ -26,4 +26,4 @@ def predict_tumor(img_path):
     plt.show()
 
 # Bild aus dem Test-Ordner testen
-predict_tumor('test2.jpg')
+predict_tumor('test4.jpg')
